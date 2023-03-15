@@ -1,0 +1,1 @@
+function f(e,n){return n.split(".").reduce((t,r)=>t&&t[r],e)}function i(e,n,t,r){return f(e,n)[t]=r,e}function a(e,n,t){return n&&n.split(".").reduce((r,u)=>(Object.keys(t).forEach(s=>{r[u][s]=t[s]}),r&&r[u]),e),Object.keys(t).forEach(r=>{e[r]=t[r]}),e}export{i as a,f as g,a as s};
