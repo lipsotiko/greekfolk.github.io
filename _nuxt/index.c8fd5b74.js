@@ -1,0 +1,1 @@
+import{a as t,o as a,e as o,r as s,h as n,m as r,j as c}from"./entry.9bbcd5c6.js";const d="IMedia",i=t({name:d,inheritAttrs:!1}),l={class:"media-body"};function _(e,m,p,f,u,$){return a(),o("div",r(e.$attrs,{class:"media"}),[s(e.$slots,"image"),n("div",l,[s(e.$slots,"default")])],16)}const y=c(i,[["render",_]]);export{y as default};

@@ -1,1 +1,0 @@
-import{a as s,o,e as t,m as n,j as r}from"./entry.c55b7e60.js";const a="IDropdownDivider",c=s({name:a,inheritAttrs:!1});function p(e,d,i,_,l,m){return o(),t("div",n({class:"dropdown-divider",role:"separator"},e.$attrs),null,16)}const u=r(c,[["render",p]]);export{u as default};
